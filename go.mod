@@ -1,4 +1,4 @@
-module github.com/solarlune/resolv
+module github.com/geniot/resolv
 
 go 1.19
 
